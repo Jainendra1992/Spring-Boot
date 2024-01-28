@@ -1,0 +1,5 @@
+package JwtExample3.config;
+
+public class AppConfig {
+
+}
